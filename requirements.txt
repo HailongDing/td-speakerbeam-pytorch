@@ -1,0 +1,13 @@
+torch>=1.8.0
+torchaudio>=0.8.0
+pytorch-lightning>=1.5.0
+soundfile
+librosa
+pandas
+pyyaml
+tqdm
+scipy
+numpy
+matplotlib
+jupyter
+tensorboard
