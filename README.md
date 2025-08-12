@@ -75,7 +75,7 @@ python eval.py --test_dir data/wav8k/min/test --task sep_noisy --model_path exp/
 
 ## Remote Testing
 This implementation is designed to work on remote Linux servers. Test environment:
-- Server: ssh.dingshiqi.me
+- Server: your_ssh_server
 - Testing directory: /home/ubuntu/
 
 ## Reference
